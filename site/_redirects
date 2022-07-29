@@ -2,3 +2,6 @@
 /top https://top.gg/bot/807692666107985941/vote
 /topgg /top
 /dbl https://discordbotlist.com/bots/cinnamon/upvote
+
+# Redirect for 404s
+/* https://cinnamon.gifts/
